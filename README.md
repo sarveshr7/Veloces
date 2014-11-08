@@ -1,9 +1,8 @@
-veloces
+Veloces
 =======
 
-An Efficient I/O Scheduler for Solid State Devices
-The veloces I/O scheduler is a scheduler that does basic merging and read preference. It peforms bundling of writes according to block boundary.
-Its main uses include efficient scheduling for non rotational solid state devices.
+An Efficient I/O Scheduler for Solid State Devices.
+The Veloces I/O scheduler is a scheduler that performs scheduling, using concepts such as read preference, front merging and bundling of write requests.
 
 Applying patch : 
 	
